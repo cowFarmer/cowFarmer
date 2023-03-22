@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 안녕하세요. 비전과 성장을 중요하게 여기는 개발자 노현호입니다.   
-서비스화에 관심이 생겨 flutter를 공부 중 입니다.   
+인공지능에 대해 공부하고, 데이터 구축 슈퍼바이저로 근무한 경험이 있습니다.
+현재는 서비스화에 관심이 생겨 flutter를 공부 중 입니다.   
 
-🔥 현재 구직 중 입니다. 제게 관심이 있으시다면 연락 주세요! 🔥   
+🔥 구직 중 입니다. 관심이 있으시다면 연락 주세요! 🔥   
 <br/>
+#### Contact me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noehyeanhoo@gmail.com)](mailto:noehyeanhoo@gmail.com)
 <br/><br/>
 
@@ -22,7 +24,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
-
 
 <br/><br/>
 
