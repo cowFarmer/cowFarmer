@@ -28,7 +28,7 @@
 <br/><br/>
 
 ## History
-2022.12 ~ 2023.06   
+2021.12 ~ 2022.06   
 [모두의 연구소](https://modulabs.co.kr/)에서 주최하는 AIFFLE 프로그램에 참여 하여 AI에 대해 학습했습니다.   
 [AI_study Repo](https://github.com/cowFarmer/AI_study)에 정리해 두었습니다.   
 
