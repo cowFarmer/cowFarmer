@@ -34,15 +34,15 @@
 
 2022.08 ~ 2023.02   
 [Alchera](https://alchera.ai/)에서 AI 데이터 구축 슈퍼바이저로 근무 했습니다.   
-__face__ segmentation, __voice data__ preprocessing, __car & road__ preprocessing, detection, segmentation, cuboid 작업을 진행 했습니다.   
+face segmentation, voice data preprocessing, auto drive preprocessing, detection, segmentation, cuboid 작업을 진행 했습니다.   
 
 <!-- 나중에 flutter는 삭제하자. -->
 2023.02 ~ 2023.04   
 📚 Learning Flutter 📚   
 
-2023.06 ~ 2023.09
+2023.06 ~ 2023.09   
 📚 Learning Web 📚   
-청년취업사관학교에서 진행하는 파이썬 기반 풀스택 웹 서비스 개발자 교육 프로그램을 이수 예정입니다.   
+파이썬 기반 풀스택 웹 서비스 개발자 교육 프로그램을 이수 중 입니다.   
 
 
 <br/><br/><br/>
