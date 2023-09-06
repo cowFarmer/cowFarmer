@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 안녕하세요. 비전과 성장을 중요하게 여기는 개발자 노현호입니다.   
-인공지능에 대해 공부하고, 데이터 구축 슈퍼바이저로 근무한 경험이 있습니다.
-현재는 서비스화에 관심이 생겨 Web을 공부 중 입니다.   
+인공지능에 대해 공부하고, 데이터 구축 슈퍼바이저로 근무한 경험이 있습니다.   
+서비스화에 관심이 생겨 Web을 공부 한 후 현재는 백엔드 엡지니어로 근무 중입니다.
 
-<br/>
-#### Contact me!
+
+### Contact me!
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noehyeanhoo@gmail.com)](mailto:noehyeanhoo@gmail.com)
 <br/><br/>
 
