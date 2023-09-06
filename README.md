@@ -4,7 +4,6 @@
 인공지능에 대해 공부하고, 데이터 구축 슈퍼바이저로 근무한 경험이 있습니다.
 현재는 서비스화에 관심이 생겨 Web을 공부 중 입니다.   
 
-🔥 구직 중 입니다. 관심이 있으시다면 연락 주세요! 🔥   
 <br/>
 #### Contact me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noehyeanhoo@gmail.com)](mailto:noehyeanhoo@gmail.com)
@@ -71,6 +70,9 @@ face segmentation, voice data preprocessing, auto drive preprocessing, detection
 📚 Learning Web 📚   
 [새싹 파이썬 기반 풀스택 웹 서비스 개발자 교육 프로그램](https://github.com/cowFarmer/fullStack_sesac)을 이수하며 웹 풀스택을 학습했습니다.   
 
+
+2023.09 ~ ing   
+BIND 합류
 
 <br/><br/><br/>
 
