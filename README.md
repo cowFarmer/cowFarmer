@@ -2,7 +2,8 @@
 
 안녕하세요. 비전과 성장을 중요하게 여기는 개발자 노현호입니다.   
 인공지능에 대해 공부하고, 데이터 구축 슈퍼바이저로 근무한 경험이 있습니다.   
-서비스화에 관심이 생겨 Web을 공부 한 후 현재는 백엔드 엡지니어로 근무 중입니다.
+서비스화에 관심이 생겨 Web을 공부 했습니다.   
+현재는 스타트업에서 서버, 백엔드 엔지니어로 근무 중입니다.
 
 
 ### Contact me!
@@ -63,17 +64,16 @@ Design Tool(<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-squar
 [AI_study Repo](https://github.com/cowFarmer/AI_study)에 정리해 두었습니다.   
 
 2022.08 ~ 2023.02   
-<!-- [Alchera](https://alchera.ai/)에서  -->
-AI 데이터 구축 슈퍼바이저로 근무 했습니다.   
-face segmentation, voice data preprocessing, auto drive preprocessing, detection, segmentation, cuboid 작업을 진행 했습니다.   
+[Alchera](https://alchera.ai/)에서 AI 데이터 구축 슈퍼바이저로 근무 했습니다.   
+face segmentation, voice data preprocessing, auto drive preprocessing, detection, segmentation, cuboid 작업을 진행 및 관리 감독 했습니다.   
 
 2023.06 ~ 2023.09   
 📚 Learning Web 📚   
-[새싹 파이썬 기반 풀스택 웹 서비스 개발자 교육 프로그램](https://github.com/cowFarmer/fullStack_sesac)을 이수하며 웹 풀스택을 학습했습니다.   
-
+[새싹 파이썬 기반 풀스택 웹 서비스 개발자 교육 프로그램](https://github.com/cowFarmer/fullStack_sesac)을 이수하며 웹 풀스택을 학습 했습니다.   
 
 2023.09 ~ ing   
-BIND 합류
+BIND 합류   
+서버, 백엔드 엔지니어 업무 진행
 
 <br/><br/><br/>
 
