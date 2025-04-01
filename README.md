@@ -69,14 +69,13 @@ face segmentation, voice data preprocessing, auto drive preprocessing, detection
 📚 Learning Web 📚   
 [새싹 파이썬 기반 풀스택 웹 서비스 개발자 교육 프로그램](https://github.com/cowFarmer/fullStack_sesac)을 이수하며 웹 풀스택을 학습 했습니다.   
 
-2023.09 ~ ing   
+2023.09 ~ 2024.05   
 BIND 합류   
 서버, 백엔드 엔지니어 업무 진행
 
 <br/><br/><br/>
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcowFarmer&count_bg=%230095FF&title_bg=%239C9C9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!-- reference -->
 <!-- https://simpleicons.org/ -->
